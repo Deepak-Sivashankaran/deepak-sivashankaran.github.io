@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Deepak Sivashankaran
-description: "Hi I'm Deepak Sivashankaran, a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Deepak Sivashankaran, a passionate Data Scientist and lifelong learner.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. I specialize in data science, AWS & AI/ML, and I enjoy solving real-world problems through clean and efficient code. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
