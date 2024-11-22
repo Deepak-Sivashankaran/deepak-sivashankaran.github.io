@@ -9,15 +9,16 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Deepak Sivashankaran
-description: "Hi I'm Deepak Sivashankaran, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Deepak Sivashankaran, a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: <span style="color:#06f5a9";font-weight = bold; font-family = 'Roboto'> Data Science </span>
+subtitle: <span style="color:#8906f5"> Portfolio </span>
 location: "Coventry, UK"
-resume_url: /docs/Deepak_CV.docx
+resume_url: <span style = /docs/Deepak_CV.docx
 avatar_image: /img/profile_picture.jpg
 
 #-------------------------------
