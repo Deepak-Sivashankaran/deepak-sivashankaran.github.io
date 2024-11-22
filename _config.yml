@@ -15,7 +15,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: <span style="color:#f5b906;font-weight: bold"> Data Science </span> <span style="color:#f5b906"> - Portfolio </span> 
+subtitle: <span style="color:#f5b906"> Data Science </span> <span style="color:#f5b906"> - Portfolio </span> 
 location: "Coventry, UK"
 resume_url: <span style = /docs/Deepak_CV.docx
 avatar_image: /img/profile_picture.jpg
